@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Information Systems Management gr
 🧩 I have experience programming with HTML & CSS, JavaScript, Python, ReactJS, Angular, and AWS servers (Lambda, DynamoDB, S3, ...)  
 ⚡  In addition to my technical skills, I have a solid understanding of CI/CD pipelines using Git and GitLab, as well as experience in project management with Scrum and task tracking through tools like Jira and Bitbucket.  
 🚀 Looking ahead, I'm excited about refining my skills, particularly in English proficiency, and expanding my expertise in software development.  
-I'm eager to contribute my knowledge and enthusiasm to innovative projects and collaborative teams. Let's connect and explore the possibilities!    
-📫 Feel free to reach out: [phanhonghanh0812@gmail.com](mailto:phanhonghanh0812@gmail.com)  
+📫 I'm eager to contribute my knowledge and enthusiasm to innovative projects and collaborative teams. Let's connect and explore the possibilities! Feel free to reach out: [phanhonghanh0812@gmail.com](mailto:phanhonghanh0812@gmail.com)  
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hanhphan812) 
