@@ -1,13 +1,14 @@
-## 💫About Me :
-Hi there! 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hanh Phan</h1>
+<p align="center">
+  <a href="https://github.com/bilday08/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;%20AI%20|%20ML%20;Frontend+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+</p>
+<h3>Little facts about me 🧑</h3>
 
-Welcome to my GitHub profile! I'm a passionate Information Systems Management graduate with a keen interest in coding and system administration. Here's a little about me:
-
-💼 I bring over a year of hands-on experience as a Software Developer  
-🧩 I have experience programming with HTML & CSS, JavaScript, Python, ReactJS, Angular, and AWS servers (Lambda, DynamoDB, S3, ...)  
-⚡  In addition to my technical skills, I have a solid understanding of CI/CD pipelines using Git and GitLab, as well as experience in project management with Scrum and task tracking through tools like Jira and Bitbucket.  
-🚀 Looking ahead, I'm excited about refining my skills, particularly in English proficiency, and expanding my expertise in software development.  
-📫 I'm eager to contribute my knowledge and enthusiasm to innovative projects and collaborative teams. Let's connect and explore the possibilities! Feel free to reach out: [phanhonghanh0812@gmail.com](mailto:phanhonghanh0812@gmail.com)  
+- 💼 I bring over a year of hands-on experience as a Software Developer.  
+- 🧩 I have experience programming with HTML & CSS, JavaScript, Python, ReactJS, Angular, and AWS servers (Lambda, DynamoDB, S3, ...)  
+- ⚡  In addition to my technical skills, I have a solid understanding of CI/CD pipelines using Git and GitLab, as well as experience in project management with Scrum and task tracking through tools like Jira and Bitbucket.  
+- 💡 Looking ahead, I'm excited about refining my skills, particularly in English proficiency, and expanding my expertise in software development.  
+- 📫 I'm eager to contribute my knowledge and enthusiasm to innovative projects and collaborative teams. Let's connect and explore the possibilities! Feel free to reach out: [phanhonghanh0812@gmail.com](mailto:phanhonghanh0812@gmail.com)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hanhphan812) 
