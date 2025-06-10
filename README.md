@@ -11,7 +11,7 @@
 </table>
 <h3>Little facts about me 🧑</h3>
 
-- 💼 I bring over a year of hands-on experience as a Software Developer.  
+- 💼 I bring over two years of hands-on experience as a Software Engineer.
 - 🧩 I have experience programming with HTML & CSS, JavaScript, Python, ReactJS, Angular, and AWS servers (Lambda, DynamoDB, S3, ...)  
 - ⚡  In addition to my technical skills, I have a solid understanding of CI/CD pipelines using Git and GitLab, as well as experience in project management with Scrum and task tracking through tools like Jira and Bitbucket.  
 - 💡 Looking ahead, I'm excited about refining my skills, particularly in English proficiency, and expanding my expertise in software development.  
